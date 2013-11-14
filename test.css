@@ -1,0 +1,36 @@
+/* this is not a rule */
+
+/* ... it's just a comment */
+
+/* not a rule */
+
+/* ... and this also is not a rule */
+
+/* nor is this  */
+
+/* or this */
+
+/**
+  None of these are rules
+*/
+
+/* there are 10 comments in this file */
+
+/* 
+  but no rules ...
+  so rule count should be zero 
+  but here's the output css-metrics gives
+*/
+
+/*
+
+    Metrics for test.css
+    >> Total rules: 10
+    >> Total selectors: 0
+    >> Average selectors per rule: 0
+    >> File size: 265 bytes
+    >> GZip size: 153 bytes
+
+    Done, without errors.
+
+*/

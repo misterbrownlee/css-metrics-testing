@@ -1,0 +1,12 @@
+{
+  "name": "css-metrics-test",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tehfoo/css-metrics-test"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-css-metrics": "git+https://github.com/phamann/grunt-css-metrics.git"
+  }
+}
